@@ -2,7 +2,7 @@
 * Main Styles
 */
 body {
-	background: url("../images/main.background.jpg") no-repeat center top;
+	background: url("https://raw.githubusercontent.com/jasdeepsingh/beameup-web/master/images/main.background.jpg") no-repeat center top;
 	background-size: 100% 100%;
 	width: 100%;
 	height: 100%;
